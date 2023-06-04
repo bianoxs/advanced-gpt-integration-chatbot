@@ -7,3 +7,4 @@ const config = require("./config.json");
 const { Client, GatewayIntentBits } = require("discord.js");
 
 var processing = false;
+const client = new Client({

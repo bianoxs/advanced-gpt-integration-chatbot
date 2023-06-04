@@ -8,3 +8,7 @@ const { Client, GatewayIntentBits } = require("discord.js");
 
 var processing = false;
 const client = new Client({
+  intents: [
+    GatewayIntentBits.Guilds,
+    GatewayIntentBits.GuildMessages,
+    GatewayIntentBits.GuildMembers,

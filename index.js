@@ -14,3 +14,7 @@ const client = new Client({
     GatewayIntentBits.GuildMembers,
   ],
 });
+
+const api = new ChatGPTAPI({
+  sessionToken: config.OAISession,
+});

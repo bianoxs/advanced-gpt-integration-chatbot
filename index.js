@@ -20,3 +20,10 @@ const api = new ChatGPTAPI({
 });
 
 const conversation = api.getConversation();
+
+client.on("messageCreate", async (message) => {
+  if (
+    message.author.bot ||
+    message.content.includes("@here") ||
+    message.content.includes("@everyone") ||
+    (config.channelsWhitelist.length > 0 &&

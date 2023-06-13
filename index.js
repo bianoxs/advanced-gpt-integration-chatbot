@@ -18,3 +18,5 @@ const client = new Client({
 const api = new ChatGPTAPI({
   sessionToken: config.OAISession,
 });
+
+const conversation = api.getConversation();

@@ -28,3 +28,4 @@ client.on("messageCreate", async (message) => {
     message.content.includes("@everyone") ||
     (config.channelsWhitelist.length > 0 &&
       !config.channelsWhitelist.includes(message.channel.id))
+  )

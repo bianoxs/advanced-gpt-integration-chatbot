@@ -30,3 +30,5 @@ client.on("messageCreate", async (message) => {
       !config.channelsWhitelist.includes(message.channel.id))
   )
     return false;
+
+  if (message.mentions.has(client.user.id)) {

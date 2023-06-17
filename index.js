@@ -29,3 +29,4 @@ client.on("messageCreate", async (message) => {
     (config.channelsWhitelist.length > 0 &&
       !config.channelsWhitelist.includes(message.channel.id))
   )
+    return false;

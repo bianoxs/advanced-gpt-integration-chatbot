@@ -32,3 +32,4 @@ client.on("messageCreate", async (message) => {
     return false;
 
   if (message.mentions.has(client.user.id)) {
+    if (

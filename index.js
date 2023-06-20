@@ -33,3 +33,7 @@ client.on("messageCreate", async (message) => {
 
   if (message.mentions.has(client.user.id)) {
     if (
+      config.usersWhitelist.length > 0 &&
+      !config.usersWhitelist.includes(message.author.id)
+    ) {
+      await message.reply(config.accessMessage);

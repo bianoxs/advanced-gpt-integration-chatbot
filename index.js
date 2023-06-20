@@ -37,3 +37,5 @@ client.on("messageCreate", async (message) => {
       !config.usersWhitelist.includes(message.author.id)
     ) {
       await message.reply(config.accessMessage);
+      return false;
+    }

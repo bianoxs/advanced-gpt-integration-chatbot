@@ -42,3 +42,5 @@ client.on("messageCreate", async (message) => {
 
     if (!processing) {
       processing = true;
+
+      const status = await message.reply(config.processingMessage);

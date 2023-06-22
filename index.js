@@ -39,3 +39,6 @@ client.on("messageCreate", async (message) => {
       await message.reply(config.accessMessage);
       return false;
     }
+
+    if (!processing) {
+      processing = true;

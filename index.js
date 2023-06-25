@@ -46,3 +46,4 @@ client.on("messageCreate", async (message) => {
       const status = await message.reply(config.processingMessage);
       const question = capitalizeFirstLetter(
         message.content.replace("<@" + config.botID + ">", "").trim()
+      );

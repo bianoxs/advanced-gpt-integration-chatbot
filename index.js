@@ -52,3 +52,4 @@ client.on("messageCreate", async (message) => {
         await api.ensureAuth();
         const answer = await conversation.sendMessage(question, {
           timeoutMs: 5 * 60 * 1000,
+        });

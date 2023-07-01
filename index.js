@@ -57,3 +57,4 @@ client.on("messageCreate", async (message) => {
         await message.reply(answer);
         status.delete();
       } catch (e) {
+        status.edit(e);

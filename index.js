@@ -65,3 +65,4 @@ client.on("messageCreate", async (message) => {
       message.reply(config.waitingMessage);
     }
   }
+});

@@ -60,3 +60,6 @@ client.on("messageCreate", async (message) => {
         status.edit(e);
       } finally {
         processing = false;
+      }
+    } else {
+      message.reply(config.waitingMessage);

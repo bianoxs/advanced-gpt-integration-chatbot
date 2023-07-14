@@ -2,3 +2,5 @@
 {
   "name": "gptbot",
   "version": "1.0.3",
+  "description": "Discord chatbot with GPT-3 Integration.",
+  "main": "index.js",

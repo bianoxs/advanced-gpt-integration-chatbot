@@ -9,3 +9,6 @@
     "gpt-3",
     "openai",
     "bot"
+  ],
+  "files": [
+    "index.js",

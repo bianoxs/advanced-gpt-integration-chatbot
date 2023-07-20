@@ -12,3 +12,5 @@
   ],
   "files": [
     "index.js",
+    "config.json"
+  ],

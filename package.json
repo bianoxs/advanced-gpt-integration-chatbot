@@ -5,3 +5,4 @@
   "description": "Discord chatbot with GPT-3 Integration.",
   "main": "index.js",
   "keywords": [
+    "discord",

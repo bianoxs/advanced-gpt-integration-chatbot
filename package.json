@@ -23,3 +23,5 @@
   },
   "author": "Leinstay",
   "license": "MIT",
+  "dependencies": {
+    "chatgpt": "^2.0.5",

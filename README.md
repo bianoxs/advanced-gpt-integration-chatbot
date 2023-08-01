@@ -15,3 +15,5 @@ ChatGPT is a large-scale language model trained by OpenAI for the purpose of pro
 - Get everyone in your server involved in conversations
 - Experience engaging, natural conversation with OpenAI's state-of-the-art language model
 - Easy to use – just mention the bot in a channel and start chatting
+
+## Installation

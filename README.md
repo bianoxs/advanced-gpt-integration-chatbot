@@ -22,3 +22,5 @@ ChatGPT is a large-scale language model trained by OpenAI for the purpose of pro
 2. Install the chatbot using NPM:
 
 ```bash
+
+# Clone repository

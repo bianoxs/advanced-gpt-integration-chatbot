@@ -20,3 +20,5 @@ ChatGPT is a large-scale language model trained by OpenAI for the purpose of pro
 
 1. Create a [new discord application](https://discord.com/developers/applications) and invite it to your Discord server.
 2. Install the chatbot using NPM:
+
+```bash

@@ -8,3 +8,8 @@ The program is a Discord bot that takes advantage of the [chatgpt library](https
 ![imageedit_1_9483451562](https://user-images.githubusercontent.com/8215580/206561946-c9ac8ad0-e5cf-4b65-909e-d006c8837715.png)
 
 ChatGPT is a large-scale language model trained by OpenAI for the purpose of providing an entertaining chat experience. Please remember that it isn't a substitute for professional guidance, and its responses may not be entirely accurate or reliable. Use it responsibly.
+
+## Features
+
+- Direct interaction with ChatGPT on your Discord server
+- Get everyone in your server involved in conversations

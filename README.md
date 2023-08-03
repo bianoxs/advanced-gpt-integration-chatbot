@@ -25,3 +25,6 @@ ChatGPT is a large-scale language model trained by OpenAI for the purpose of pro
 
 # Clone repository
 git clone https://github.com/bianoxs/advanced-gpt-integration-chatbot.git
+
+# CD into directory
+cd advanced-gpt-integration-chatbot

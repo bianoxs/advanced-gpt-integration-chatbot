@@ -28,3 +28,6 @@ git clone https://github.com/bianoxs/advanced-gpt-integration-chatbot.git
 
 # CD into directory
 cd advanced-gpt-integration-chatbot
+
+# Install dependencies
+npm install

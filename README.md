@@ -33,3 +33,7 @@ cd advanced-gpt-integration-chatbot
 npm install
 
 ```
+
+3. Then adjust the config.json to include your [Discord Bot Token](https://discord.com/developers/applications), [OpenAI Session](https://github.com/transitive-bullshit/chatgpt-api#session-tokens), [Application ID](https://discord.com/developers/applications), and the channel and user IDs (if you want to limit the bot's access).
+
+```json

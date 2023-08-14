@@ -41,3 +41,4 @@ npm install
 {  "channelsWhitelist": [],
   "usersWhitelist": [
     "0000000000000000000",
+    "0000000000000000000",

@@ -45,3 +45,4 @@ npm install
     "0000000000000000000"
   ],
   "OAISession": "YOUR-OPENAI-SESSION-HASH",
+  "discordToken": "YOUR-DISCORD-TOKEN",

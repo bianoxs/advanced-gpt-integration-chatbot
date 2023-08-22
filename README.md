@@ -47,3 +47,4 @@ npm install
   "OAISession": "YOUR-OPENAI-SESSION-HASH",
   "discordToken": "YOUR-DISCORD-TOKEN",
   "botID": "BOT-ID",
+  "processingMessage": "Waiting for a response from OpenAI",

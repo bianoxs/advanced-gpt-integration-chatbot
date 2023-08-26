@@ -48,3 +48,4 @@ npm install
   "discordToken": "YOUR-DISCORD-TOKEN",
   "botID": "BOT-ID",
   "processingMessage": "Waiting for a response from OpenAI",
+  "waitingMessage": "I am currently generating a response for another user, please wait",

@@ -51,3 +51,5 @@ npm install
   "waitingMessage": "I am currently generating a response for another user, please wait",
   "accessMessage": "You do not have permission to communicate with OpenAI, contact the server administrator"
 }
+
+```

@@ -57,3 +57,7 @@ npm install
 ## Usage
 
 I highly recommend the use of process managers like forever or pm2:
+
+```bash
+pm2 start index.js --name Bot --log bot.log
+```

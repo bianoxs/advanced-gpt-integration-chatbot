@@ -55,3 +55,5 @@ npm install
 ```
 
 ## Usage
+
+I highly recommend the use of process managers like forever or pm2:

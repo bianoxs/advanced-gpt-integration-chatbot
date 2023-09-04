@@ -61,3 +61,5 @@ I highly recommend the use of process managers like forever or pm2:
 ```bash
 pm2 start index.js --name Bot --log bot.log
 ```
+
+Alternatively, you can run it directly without the process managers:

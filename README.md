@@ -66,3 +66,4 @@ Alternatively, you can run it directly without the process managers:
 
 ```bash
 node index.js
+```

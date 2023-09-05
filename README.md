@@ -67,3 +67,5 @@ Alternatively, you can run it directly without the process managers:
 ```bash
 node index.js
 ```
+
+That's it! Get started now and enjoy fascinating chit-chats with ChatGPT on your Discord server.

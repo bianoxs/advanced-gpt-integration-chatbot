@@ -63,3 +63,5 @@ pm2 start index.js --name Bot --log bot.log
 ```
 
 Alternatively, you can run it directly without the process managers:
+
+```bash
